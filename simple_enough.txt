@@ -1,0 +1,13 @@
+78 Subsets
+169	Majority Element
+187	Repeated DNA Sequences
+190 Reverse Bits - follow up, divide and cache
+191 number of 1 bit
+338 Counting Bits
+342 Power of Four
+389 Find the Difference
+*401 Binary Watch - the whole set is not that big
+405	Convert a Number to Hexadecimal
+461 Hamming Distance
+476 Number Complement
+477 Total Hamming Distance
