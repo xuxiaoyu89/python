@@ -1,0 +1,7 @@
+0. detect cycle
+1. topological sort
+2. eularian path
+3. single source shortest path
+4. minimum spanning tree
+5. find path
+6. union find
